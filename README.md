@@ -1,9 +1,9 @@
 # Hi there, I'm Or Azrad 👋
 
-### 👨‍💻 Computer Science Student | Security Enthusiast | Tutor
+###  Computer Science Student 
 
 I am a driven Computer Science student at **HIT (Holon Institute of Technology)** with a passion for **Cybersecurity, Cloud Architecture, and Low-Level Programming**.
-Coming from a challenging background, I learned that perseverance is key. Today, I maintain a **GPA of 87**, build complex security tools, and mentor other students to success.
+Coming from a challenging background, I learned that perseverance is key.I build complex security tools, and mentor other students to success.
 
 ---
 
